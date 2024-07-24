@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+}
+
+p {
+    color: darkblue;
+}
+
+.comida {
+    border: 50px solid black;
+}
+
+.texto-centrado {
+    text-align: center;
+}
+
+.imagen-blog {
+    border: 10px solid black;
+    width: 200px;
+    text-align: center;
+}
+
+#titulo {
+    color: purple;
+}
